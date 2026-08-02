@@ -2,7 +2,7 @@
    1. PASSWORD & LOCK SCREEN SYSTEM
    ========================================================================== */
 const SECRET_CODE = "06"; // Default 2-digit secret password
-let enteredCode = "06";
+let enteredCode = "";
 
 const dot1 = document.getElementById('dot1');
 const dot2 = document.getElementById('dot2');
