@@ -1,7 +1,7 @@
 /* ==========================================================================
    1. PASSWORD & LOCK SCREEN SYSTEM
    ========================================================================== */
-const SECRET_CODE = "14"; // Default 2-digit secret password
+const SECRET_CODE = "06"; // Default 2-digit secret password
 let enteredCode = "";
 
 const dot1 = document.getElementById('dot1');
@@ -337,7 +337,7 @@ function initMainFeatures() {
   });
 
   // Typewriter Title
-  const titleText = "Happy Birthday, My Princess ❤️";
+  const titleText = "Happy Birthday, My Labibah ❤️";
   const titleElem = document.getElementById('typewriterTitle');
   let charIdx = 0;
 
@@ -359,7 +359,7 @@ function initMainFeatures() {
    ========================================================================== */
 function initCountdown() {
   // Set your custom relationship start date here (YYYY-MM-DD)
-  const loveStartDate = new Date('2022-01-01T00:00:00');
+  const loveStartDate = new Date('2024-08-22T00:00:00');
 
   function updateTimer() {
     const now = new Date();
