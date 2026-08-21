@@ -341,7 +341,7 @@ function initMainFeatures() {
     });
   }
 
-  const titleText = "Happy Birthday, My Labibah ❤️";
+  const titleText = "Tasin ♡ Labibah ";
   const titleElem = document.getElementById('typewriterTitle');
   let charIdx = 0;
 
